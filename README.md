@@ -1,5 +1,5 @@
 # Data Augmentation for Automated Essay Scoring using Transformer Models
-This repository contains the code of the paper "Data Augmentation for Automated Essay Scoring using Transformer Models" by Kshitij Gupta. The paper is available at [IEEE Xplore](https://ieeexplore.ieee.org/document/10085523).
+This repository contains the code of the paper "Data Augmentation for Automated Essay Scoring using Transformer Models" by [Kshitij Gupta](https://www.linkedin.com/in/kjgpta/). The paper is available at [IEEE Xplore](https://ieeexplore.ieee.org/document/10085523).
 
 ## Introduction
 Automated essay scoring (AES), also known as automated essay grading or machine scoring, refers to the use of artificial intelligence and natural language processing techniques to assess and evaluate essays written by humans. This technology aims to streamline the grading process, providing rapid and consistent feedback to students.
