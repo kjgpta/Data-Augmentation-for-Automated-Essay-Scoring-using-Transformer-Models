@@ -26,11 +26,17 @@ To use the code and scripts in this repository, please follow these steps:
 This section describes how to use the code and scripts provided in this repository.
 
 1. Firstly, we summarize the topic of each essay using the [BART](https://huggingface.co/docs/transformers/model_doc/bart) model.
+
 2. Next, we normalize the training and validation score out of 10 such that we have 11 bracket of score from 0 to 10.
-3. We then added the summary of each topic to the training data and validation data.
+
+3. We then added the summary of each topic to the training data and validation data. The data augmentation process is shown below:
+
 ![Data Augmentation](Result/data_augmentation.png)
+
 4. We trained the model on the augmented data and evaluate the model on the validation data.
+
 5. After thorough analysis, we used the test data and added that data to the training data and trained the model on the augmented data using the updated hyperparameters.
+
 6. We then evaluated the model on the test data.
 
 ## Results
