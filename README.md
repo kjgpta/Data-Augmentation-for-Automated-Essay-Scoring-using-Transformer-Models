@@ -31,7 +31,7 @@ This section describes how to use the code and scripts provided in this reposito
 
 3. We then added the summary of each topic to the training data and validation data. The data augmentation process is shown below:
 
-![Data Augmentation](Result/data_augmentation.png)
+![Data Augmentation](Images/data_augmentation.png)
 
 4. We trained the model on the augmented data and evaluate the model on the validation data.
 
@@ -41,10 +41,10 @@ This section describes how to use the code and scripts provided in this reposito
 
 ## Results
 The results of the experiments are shown below for all the 4 topics from the test set:
-![Topic 1](Result/topic1.png)
-![Topic 2](Result/topic2.png)   
-![Topic 3](Result/topic3.png)
-![Topic 4](Result/topic4.png)
+![Topic 1](Images/topic1.png)
+![Topic 2](Images/topic2.png)   
+![Topic 3](Images/topic3.png)
+![Topic 4](Images/topic4.png)
 ## License
 
 This project is licensed under the [CC0-1.0 License](LICENSE).
