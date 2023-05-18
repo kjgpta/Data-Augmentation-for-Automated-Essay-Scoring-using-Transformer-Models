@@ -31,7 +31,7 @@ This section describes how to use the code and scripts provided in this reposito
 
 3. We then added the summary of each topic to the training data and validation data. The data augmentation process is shown below:
 
-![Data Augmentation](Images/data_augmentation.png)
+![Data Augmentation](Images/augmentation.png)
 
 4. We trained the model on the augmented data and evaluate the model on the validation data.
 
